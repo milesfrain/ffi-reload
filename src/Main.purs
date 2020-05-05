@@ -8,4 +8,4 @@ foreign import mylog :: String -> Effect Unit
 
 main :: Effect Unit
 main = do
-  mylog "Main v1"
+  mylog "Purs v1"
